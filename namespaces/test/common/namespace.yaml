@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: common
+  labels:
+    env: test
+    team: common
+  annotations:
+    audit: "true"
