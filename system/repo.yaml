@@ -3,4 +3,4 @@ apiVersion: configmanagement.gke.io/v1
 metadata:
   name: repo
 spec:
-  version: "master"
+  version: "0.1.0"
