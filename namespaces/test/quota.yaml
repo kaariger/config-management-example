@@ -4,6 +4,6 @@ metadata:
   name: quota
 spec:
   hard:
-    pods: "60"
+    pods: "70"
     cpu: "100"
     memory: 200G
